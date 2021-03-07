@@ -1,0 +1,1 @@
+(asciidoc-mode :url "https://git.hcoder.org/emanchado/asciidoc-mode.git" :fetcher git)
